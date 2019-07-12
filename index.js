@@ -9,8 +9,8 @@ app.use(express.json());
 
 
 const config={
-    DB: 'mongodb://localhost:27017/nodemailer',
-//    DB:"mongodb+srv://sandy:andomalala@cluster0-nkfjf.mongodb.net/test?retryWrites=true&w=majority"
+    // DB: 'mongodb://localhost:27017/nodemailer',
+   DB:"mongodb+srv://sandy:andomalala@cluster0-nkfjf.mongodb.net/test?retryWrites=true&w=majority"
 }
 
 
